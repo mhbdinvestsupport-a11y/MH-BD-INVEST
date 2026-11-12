@@ -1,0 +1,6 @@
+{
+  "name": "MH BD Invest - Admin Control Panel",
+  "description": "Comprehensive administrative dashboard for MH BD INVEST managing Bangladeshi investment plans, KYC verifications, bKash & Nagad deposits, withdrawals, users, security, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
